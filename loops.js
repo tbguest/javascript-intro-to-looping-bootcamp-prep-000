@@ -1,4 +1,4 @@
-var array = []
+var loops = []
 
 function forLoop(array) {
 
