@@ -45,7 +45,7 @@ function doWhileLoop(num) {
   } while (incrementVariable() < num)
 }
 
-
+console.log(doWhileLoop(5))
 
 ```javascript
 let i = 0;
