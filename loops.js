@@ -1,4 +1,4 @@
-var loops = []
+var strangeLoops = []
 
 function forLoop(array) {
 
