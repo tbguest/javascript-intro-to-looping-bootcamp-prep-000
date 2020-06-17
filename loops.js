@@ -30,3 +30,12 @@ function whileLoop(number) {
 }
 
 console.log(whileLoop(10))
+
+
+function doWhileLoop(i) {
+  
+}
+
+
+
+
