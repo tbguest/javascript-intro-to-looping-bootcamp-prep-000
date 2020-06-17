@@ -1,25 +1,13 @@
 var array = []
 
-// function forLoop(array) {
-//   for (let i = 0; i < 25; i++) {
-    
-//     if (i === 1) {
-//       array.push(`I am ${i} strange loop.`)
-//     } else {
-//       array.push(`I am ${i} strange loops.`)
-//   }
-  
-//   return array
-// }
+function forLoop(array) {
 
-for (let i = 0; i < 25; i++) {
-  
-  if (i === 1) {
-    array.push(`I am ${i} strange loop.`)
-    console.log(array)
-  } else if (i > 1) {
-    array.push(`I am ${i} strange loops.`)
-    console.log(array)
+  for (let i = 0; i < 25; i++) {
+    
+    if (i === 1) {
+      array.push(`I am ${i} strange loop.`)
+    } else if (i > 1) {
+      array.push(`I am ${i} strange loops.`)
+    }
   }
-}
 
