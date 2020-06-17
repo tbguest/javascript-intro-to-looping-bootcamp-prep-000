@@ -15,4 +15,4 @@ function forLoop(array) {
   
 }
 
-console.log(array)
+console.log(forLoop(strangeLoops))
