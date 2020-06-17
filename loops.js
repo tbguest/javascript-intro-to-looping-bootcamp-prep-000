@@ -18,6 +18,8 @@ function forLoop(array) {
 console.log(forLoop(strangeLoops))
 
 
+
+
 function whileLoop(number) {
   
   while (number > 0) {
@@ -30,6 +32,8 @@ function whileLoop(number) {
 }
 
 console.log(whileLoop(10))
+
+
 
 
 let i = 0;
