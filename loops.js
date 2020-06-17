@@ -29,4 +29,4 @@ function whileLoop(number) {
   return 'done'
 }
 
-whileLoop(10)
+console.log(whileLoop(10))
