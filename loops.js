@@ -26,3 +26,5 @@ function whileLoop(number) {
     number--
   } 
 }
+
+whileLoop(10)
