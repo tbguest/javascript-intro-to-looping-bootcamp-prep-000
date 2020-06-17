@@ -16,3 +16,13 @@ function forLoop(array) {
 }
 
 console.log(forLoop(strangeLoops))
+
+
+function whileLoop(number) {
+  
+  while (number > 0) {
+    
+    console.log(number)
+    number--
+  } 
+}
