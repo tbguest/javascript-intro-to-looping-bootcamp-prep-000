@@ -45,5 +45,5 @@ function doWhileLoop(num) {
   } while (incrementVariable() < num)
 }
 
-console.log(doWhileLoop(5))
+console.log(doWhileLoop(10))
 
